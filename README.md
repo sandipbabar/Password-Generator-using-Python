@@ -1,4 +1,4 @@
-# Password-Generator-using-Python
+#Password-Generator-using-Python
 import tkinter
 import string
 import random
